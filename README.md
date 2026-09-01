@@ -1,2 +1,2 @@
-# Swiggy-Sales-Analysis
-Swiggy food delivery sales analysis using Excel to identify sales trends, customer behavior, restaurant performance, and business insights.
+# 🍔 Swiggy Sales & Food Delivery Analysis — Excel
+An Excel-based business analytics project analyzing 197K+ Swiggy food-delivery records to identify price-value trends, food preferences, restaurant performance, customer ratings, and geographic patterns.
